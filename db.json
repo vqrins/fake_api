@@ -1,0 +1,11 @@
+{
+    "books": [
+      { "id": 1, "book_title": "Book 1" },
+      { "id": 2, "book_title": "Book 2" },
+      { "id": 3, "book_title": "Book 3" }
+    ],
+    "authors": [
+      { "id": 1, "name": "John Doe"},
+      { "id": 2, "body": "Jane Doe"}
+    ]
+}
